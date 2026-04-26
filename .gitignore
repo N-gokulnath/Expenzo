@@ -1,3 +1,11 @@
+node_modules/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+*.log
+.bundle/
+.vscode/
 # OSX
 #
 .DS_Store
