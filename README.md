@@ -37,7 +37,7 @@ The `landing/` directory holds a responsive single-page web app built with Vanil
 *   **Compact Showcase (Mobile)**: Auto-collapses vertical tabs into a horizontal scroll-snap swipe bar on mobile screens.
 *   **3D Parallax visual**: Mockup phone rotates in 3D perspective following mouse movements.
 *   **Direct Download Button**: Link pointing to the official compiled release:
-    *   <a href="https://github.com/N-gokulnath/Expenzo/releases/download/App/Expenzo.apk">Download Expenzo</a>
+    <a href="https://github.com/N-gokulnath/Expenzo/releases/download/App/Expenzo.apk">Download Expenzo</a>
 ---
 ## 🛠️ Tech Stack
 ### Mobile Application
